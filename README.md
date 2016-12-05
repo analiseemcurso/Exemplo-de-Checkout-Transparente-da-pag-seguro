@@ -1,4 +1,4 @@
-# Exemplo-de-Checkout-Transparente-da-pag-seguro
+#Exemplo-de-Checkout-Transparente-da-pag-seguro
 exemplo de como utilizar api do pag seguro para pagamento usando cartão boleto e pagamento online 
 
 # credenciais 
@@ -26,3 +26,6 @@ private $sandboxData = Array(
 			'javascriptURL' => "https://stc.pagseguro.uol.com.br/pagseguro/api/v2/checkout/pagseguro.directpayment.js"
 			
 		);
+#Referencia 
+exemplo de base criado pela pag seguro
+http://download.uol.com.br/pagseguro/docs/example.zip
