@@ -29,3 +29,4 @@ private $sandboxData = Array(
 #Referencia 
 exemplo de base criado pela pag seguro
 http://download.uol.com.br/pagseguro/docs/example.zip
+senha para descompactar uol123
